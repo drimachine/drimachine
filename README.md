@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu sou Pedro Henrique 👋
 
-<!--
-**drimachine/drimachine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou construindo minha trajetória na área de tecnologia, aprendendo na prática e desenvolvendo projetos para fortalecer meu portfólio.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Estudando Git, GitHub e desenvolvimento de software
+- 📚 Em constante aprendizado
+- 🧠 Interesse em automação, dados e soluções digitais
+- 🎯 Objetivo: evoluir tecnicamente e criar projetos úteis
+
+## 🛠️ Tecnologias que estou aprendendo
+
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+
+## 📌 Projetos em destaque
+
+user_api
+
+## 📫 Como me encontrar
+
+- LinkedIn: (https://www.linkedin.com/in/pedro-esperan%C3%A7a-1a8a6b247/)
+- Email: phesperanca07@gmail.com
