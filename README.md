@@ -23,5 +23,5 @@ user_api
 
 ## 📫 Como me encontrar
 
-- LinkedIn: (https://www.linkedin.com/in/pedro-esperan%C3%A7a-1a8a6b247/)
+- LinkedIn: https://www.linkedin.com/in/pedro-esperan%C3%A7a-1a8a6b247/
 - Email: phesperanca07@gmail.com
